@@ -9,4 +9,5 @@
 
 ### sample data
 dataset used in the present study is available in the following repository
+
 git@github.com:Junichi-Ushiba-Laboratory/pj-hd-smrbmi.git
